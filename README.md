@@ -1,11 +1,7 @@
 # Kalman Filter Presentation
 
-This is a presentation about Kalman filters for Computer Science Club. 
-
-
-### Related links
-
- * [Roger Labbe, Jr's Kalman and Bayesian Filters in Python repo](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
-
- * [Roger Labbe, Jr's Kalman and Bayesian Filters in Python book](https://drive.google.com/file/d/0By_SW19c1BfhSVFzNHc0SjduNzg/view)
+This is a presentation about Kalman filters for Computer Science Club.  There are 
+some papers in the `/docs` folder, and some Jupyter notebooks mainly geared at 
+demonstrating issues about conjugate priors and a Kalman filter example in the 
+`/jupyter` folder.
 

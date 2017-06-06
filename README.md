@@ -1,10 +1,20 @@
 # Kalman Filter Presentation
 
-This is a presentation about Kalman filters for Computer Science Club.  There are 
-some papers in the `/docs` folder, and some Jupyter notebooks mainly geared at 
+This is a presentation about Kalman filters for Computer Science Club. 
+
+
+### Contents
+
+There are some papers in the `/docs` folder, and some Jupyter notebooks mainly geared at 
 demonstrating issues about conjugate priors and a Kalman filter example in the 
 `/jupyter` folder.  There are also [presentation notes](docs/PresentationNotes.pdf) 
-for the presentation.  The notes refer to the Jupyter notebooks, which provide reinforcement
+for the presentation.  
+
+
+
+### Notebooks
+
+The notes refer to the Jupyter notebooks, which provide reinforcement
 of the concepts.  Care was taken that these be visible in the repo since GitHub
 automatically launches a viewer for notebooks.  
 
@@ -16,3 +26,6 @@ avoid messing with configuring Jupyter to be secure.  This gives you a lot of
 power very easily and cheaply while having the convenience of the familiar notebook
 environment.
 
+
+
+### [More](RESOURCES.md)
